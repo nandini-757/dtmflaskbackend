@@ -1,0 +1,24 @@
+# Flask
+.env
+instance/
+__pycache__/
+*.py[cod]
+
+# venv
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PyCharm
+*.iml
